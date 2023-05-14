@@ -1,16 +1,13 @@
-### Hi there 👋
-
-
-<!-- **nyitrai100/nyitrai100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on two websites through my internship in Australia.
+### Hi there! Thanks for your visitation  👋
+ 
+About me:
+- 🔭 I'm currently working on a Project for an australian company.
 - ⚡  I'm currently pursuing a BSc degree in Web programming and Cyber Security.
 - 🌱 I’m currently learning Javascript, PHP, Bootstrap.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
 - 📫 You can reach me at nyitrai100@gmail.com.
 - 😄 Pronouns: I don't believe in this nonsense.
+- ⚡  My portfolio website: https://tranquil-cannoli-742856.netlify.app 
 
 
 I have strong understanding the following programming languages:
@@ -28,7 +25,7 @@ I have intermediate level to use the following platforms:
 
 ![62c41f5069b0da78165bc21f](https://user-images.githubusercontent.com/114404371/236673561-9f1a60dd-7e65-4139-8b65-70ea21b7842a.png)
 ![wordpress](https://user-images.githubusercontent.com/114404371/236673427-cdf230c4-6c04-4ef4-8878-c3ab9f55b0d1.png)
- -->
+
 
 
 
