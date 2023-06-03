@@ -6,8 +6,7 @@ About me:
 - 🌱 I’m currently learning Javascript, PHP, Bootstrap.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
 - 📫 You can reach me at nyitrai100@gmail.com.
-- 😄 Pronouns: I don't believe in this nonsense.
-- ⚡  My portfolio website: https://tranquil-cannoli-742856.netlify.app 
+- 😄  My portfolio website: https://tranquil-cannoli-742856.netlify.app 
 
 
 I have strong understanding the following programming languages:
