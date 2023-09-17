@@ -1,7 +1,7 @@
 ### Hi there! Thanks for your visitation  👋
  
 About me:
-- 🔭 I'm currently working on a Project for an australian company.
+- 🔭 I'm currently working on a Project with my friends.
 - ⚡  I'm currently pursuing a BSc degree in Web programming and Cyber Security.
 - 🌱 I’m currently learning Javascript, PHP, Bootstrap.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
