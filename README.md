@@ -15,7 +15,7 @@ I have strong understanding the following programming languages:
 ![css-3](https://user-images.githubusercontent.com/114404371/236672528-45eae7c3-12e3-4974-b157-921bba946689.png)
 ![js](https://user-images.githubusercontent.com/114404371/236672555-03915499-87ca-49d5-9d2a-dcd2c5d327df.png)
 ![bootstrap](https://user-images.githubusercontent.com/114404371/236672641-bb9bd530-f95d-460b-836d-e0b58e2b188d.png)
-![sjxs3pxsc6k63ju0fzv8l3cu4v90](https://github.com/nyitrai100/nyitrai100/assets/114404371/c58694c3-6ad2-41bc-b42c-99708e51b3d8)
+
 
 
 I have basic knowledges the following programming languages/frameworks:
