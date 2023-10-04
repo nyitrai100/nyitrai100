@@ -14,10 +14,10 @@ I have strong understanding the following programming languages:
  ![html](https://user-images.githubusercontent.com/114404371/236672584-a20b6917-1f5c-471f-84b5-2ec7bdffe79a.png)
 ![css-3](https://user-images.githubusercontent.com/114404371/236672528-45eae7c3-12e3-4974-b157-921bba946689.png)
 ![js](https://user-images.githubusercontent.com/114404371/236672555-03915499-87ca-49d5-9d2a-dcd2c5d327df.png)
+![bootstrap](https://user-images.githubusercontent.com/114404371/236672641-bb9bd530-f95d-460b-836d-e0b58e2b188d.png)
 
 I have basic knowledges the following programming languages/frameworks:
 
-![bootstrap](https://user-images.githubusercontent.com/114404371/236672641-bb9bd530-f95d-460b-836d-e0b58e2b188d.png)
 ![php](https://user-images.githubusercontent.com/114404371/236672695-2ee5f249-6194-44f2-83e7-5738d514c63f.png)
 
 I have intermediate level to use the following platforms:
