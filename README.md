@@ -15,7 +15,7 @@ I have strong understanding the following programming languages:
 ![css-3](https://user-images.githubusercontent.com/114404371/236672528-45eae7c3-12e3-4974-b157-921bba946689.png)
 ![js](https://user-images.githubusercontent.com/114404371/236672555-03915499-87ca-49d5-9d2a-dcd2c5d327df.png)
 ![bootstrap](https://user-images.githubusercontent.com/114404371/236672641-bb9bd530-f95d-460b-836d-e0b58e2b188d.png)
-<img width="66" alt="89711240-4172a200-d989-11ea-8d51-4aaf922fa407" src="https://github.com/nyitrai100/nyitrai100/assets/114404371/d4bc67a0-0464-4683-85fb-735e5e85fa90">
+<img width="56" alt="89711240-4172a200-d989-11ea-8d51-4aaf922fa407" src="https://github.com/nyitrai100/nyitrai100/assets/114404371/d4bc67a0-0464-4683-85fb-735e5e85fa90">
 
 
 
