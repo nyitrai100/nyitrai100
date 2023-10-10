@@ -16,7 +16,7 @@ I have strong understanding the following programming languages:
 ![js](https://user-images.githubusercontent.com/114404371/236672555-03915499-87ca-49d5-9d2a-dcd2c5d327df.png)
 ![bootstrap](https://user-images.githubusercontent.com/114404371/236672641-bb9bd530-f95d-460b-836d-e0b58e2b188d.png)
 <img width="46" alt="89711240-4172a200-d989-11ea-8d51-4aaf922fa407" src="https://github.com/nyitrai100/nyitrai100/assets/114404371/d4bc67a0-0464-4683-85fb-735e5e85fa90">
-![react](https://github.com/nyitrai100/nyitrai100/assets/114404371/3ef2e272-3383-442b-8c9b-8714eb149586)
+<img width="46" alt="89711240-4172a200-d989-11ea-8d51-4aaf922fa407" src="https://github.com/nyitrai100/nyitrai100/assets/114404371/3ef2e272-3383-442b-8c9b-8714eb149586">
 
 
 
