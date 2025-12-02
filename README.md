@@ -1,9 +1,9 @@
 ### Hi there! Thanks for your visitation  👋
  
 About me:
-- 🔭 I'm currently working on a Project with my friends.
+- 🔭 I'm currently working on my final year project.
 - ⚡  I'm currently pursuing a BSc degree in Web programming with Cyber Security.
-- 🌱 I’m currently learning C#, Blazor and worked at Cortex as a software developer.
+- 🌱 I’m currently learning C#, Blazor.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
 - 📫 You can reach me at nyitrai100@gmail.com.
 - 😄  My portfolio website: [https://tranquil-cannoli-742856.netlify.app ](https://lively-maamoul-d85ea1.netlify.app)
