@@ -1,8 +1,9 @@
 ### Hi there! Thanks for your visitation  👋
  
 About me:
+- 👋 I've 1 year experience as a junior developer.
 - 🔭 I'm currently working on my final year project.
-- ⚡  I'm currently pursuing a BSc degree in Web programming with Cyber Security.
+- ⚡ I'm currently pursuing a BSc degree in Web programming with Cyber Security.
 - 🌱 I’m currently learning C#, React, NextJs.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
 - 📫 You can reach me at nyitrai100@gmail.com.
