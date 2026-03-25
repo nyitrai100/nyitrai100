@@ -3,7 +3,7 @@
 About me:
 - 🔭 I'm currently working on my final year project.
 - ⚡  I'm currently pursuing a BSc degree in Web programming with Cyber Security.
-- 🌱 I’m currently learning C#, Blazor.
+- 🌱 I’m currently learning C#, React, nextJs.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
 - 📫 You can reach me at nyitrai100@gmail.com.
 - 😄  My portfolio website: [https://tranquil-cannoli-742856.netlify.app ](https://lively-maamoul-d85ea1.netlify.app)
