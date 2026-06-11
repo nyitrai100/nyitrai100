@@ -2,9 +2,8 @@
  
 About me:
 - 👋 I've 1 year experience as a junior developer.
-- 🔭 I'm currently working on my final year project.
-- ⚡ I'm currently pursuing a BSc degree in Web programming with Cyber Security.
-- 🌱 I’m currently learning C#, React, NextJs.
+- ⚡ I obtained my BSc degree in Web programming with Cyber Security.
+- 🌱 I’m currently learning Java.
 - 👯 I'm looking to collaborate on anything. I am happy to learn!
 - 📫 You can reach me at nyitrai100@gmail.com.
 - 😄  My portfolio website: [https://tranquil-cannoli-742856.netlify.app ](https://lively-maamoul-d85ea1.netlify.app)
